@@ -4,4 +4,4 @@
 |--|--------------------|
 |1 | [KQL Query best practices](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices)  |
 |2 | [Optimize Queries in Azure Monitor Logs](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-optimization) | 
-|3 | [Optimizing KQL performance-Webinar](https://youtu.be/jN1Cz0JcLYU) |
+|3 | [Optimizing KQL performance - Webinar](https://youtu.be/jN1Cz0JcLYU) |
